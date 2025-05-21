@@ -96,3 +96,5 @@ The comparison of different models' performance is visualized, and the final acc
    git clone https://github.com/yourusername/titanic-survival-prediction.git
    cd titanic-survival-prediction
 
+## 📩 Contact
+Have any questions or need a custom prompt? Feel free to **[contact me here](https://linktr.ee/mina_mamdouh)**.
