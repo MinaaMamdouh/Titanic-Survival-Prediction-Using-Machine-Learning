@@ -22,7 +22,7 @@ The dataset used for this project is the famous Titanic dataset from Kaggle. It 
 - **Cabin**: Cabin number
 - **Embarked**: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-You can find the dataset [here](https://www.kaggle.com/c/titanic/data).
+You can find the dataset [here](https://github.com/MinaaMamdouh/Titanic-Survival-Prediction-Using-Machine-Learning/blob/main/Titanic-Dataset%20(2).csv).
 
 ## Objective
 
